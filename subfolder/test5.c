@@ -1,9 +1,9 @@
 void test3(){
-	int a;
+	int a3;
 	
 }
 
 void test5(){
-	int a;
+	int a5;
 	
 }
